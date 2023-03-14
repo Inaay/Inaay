@@ -22,9 +22,11 @@ A passionate developer
 
 #
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Discord-ea4aaa?style=for-the-badge&logo=heart&logoColor=white"/>](https://discord.com/invite/r9YAzmKC)
+<h2 align="center">👻 My Discord: </h2>
+<p align="center"><img src="https://discord.c99.nl/widget/theme-2/757022551397630064.png" /></p>
 
 #
+
 
 ### 📊 Stats
 
