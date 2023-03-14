@@ -1,21 +1,35 @@
-<h1 align="center">Hi 👋, I'm Inaa</h1>
-<h3 align="center">A passionate developer from Mauritius</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.75c2f842863ae2df6b3ac2d0a4d63026?rik=KEuFjuU1P0qyDA&pid=ImgRaw&r=0">
+# 🏄‍♂️ Inaayat
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inaay&label=Profile%20views&color=0e75b6&style=flat" alt="inaay" /> </p>
+A passionate developer
 
-- 🌱 I’m currently learning **Java and GoLang**
+   <p align="left">
+      <a href="https://github.com/Inaay?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Inaay?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Inaay?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Inaay?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
-- 📫 How to reach me **Discord: Inaa#1234**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/Inaa#1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Inaa#1234" height="30" width="40" /></a>
-</p>
+### 🧰 Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inaay&show_icons=true&locale=en&layout=compact" alt="inaay" /></p>
+#
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inaay&show_icons=true&locale=en" alt="inaay" /></p>
+[<img src="https://custom-icon-badges.demolab.com/badge/-Discord-ea4aaa?style=for-the-badge&logo=heart&logoColor=white"/>](https://discord.com/invite/r9YAzmKC)
+
+#
+
+### 📊 Stats
+
+![Inaayat GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=inaay&show_icons=true&locale=en&layout=compact&theme=gruvbox)
+
+![Inaayat GitHub stats](https://github-readme-stats.vercel.app/api?username=inaay&show_icons=true&locale=en&theme=gruvbox)
+
+#
