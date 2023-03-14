@@ -26,11 +26,13 @@
 <h2 align="center">👻 My Discord: </h2>
 <p align="center"><img src="https://discord.c99.nl/widget/theme-2/757022551397630064.png" /></p>
 
-### 📊 Stats
+<div align="center">
+<h3 align="center">📊 Stats</h3>
 
 ![Inaayat GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=inaay&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 
 ![Inaayat GitHub stats](https://github-readme-stats.vercel.app/api?username=inaay&show_icons=true&locale=en&theme=gruvbox)
+</div>
 
 <h4 align="center">🏆 My Trophies </h4>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=inaay&theme=discord" alt="inaay :: Top Langs" /></p>
