@@ -19,6 +19,8 @@
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" style="padding-right:10px;" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30px" style="padding-right:10px;" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30px" style="padding-right:10px;" /></p>
 <br />
 
