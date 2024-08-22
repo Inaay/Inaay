@@ -9,8 +9,6 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Inaay?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </span>
 </p>
-<p align="center">👀 Visitor's count</p>
-<p align="center"><img src="https://count.caliphdev.my.id/get/@inaayat?theme=rule34" alt="inaay :: Visitor's Count" /></p>
 
 ---
 
